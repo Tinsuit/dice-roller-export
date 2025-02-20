@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1739927487|7721173962';
+const CACHE_VERSION = '1740011912|33501878096';
 /** @type {string} */
 const CACHE_PREFIX = 'Dice Roller-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
